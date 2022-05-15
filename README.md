@@ -46,9 +46,3 @@
 
     Note:- you can use browser for hitting apis eg. http://127.0.0.1:5000/api/v1/news/search
     ```
-
-## Command line interface
-
-Several `flask` subcommands for operating on the database are included,
-courtesy of the [Click][] library, also by the author of Flask.
-
