@@ -17,14 +17,9 @@
     # dependencies for this project; Python 2.x, use 'virtualenv' instead
     python3 -m venv venv
 
-    # activate the virtual environment--modifies PATH variable for you
-    # (in Windows Command Prompt, do 'venv\scripts\activate.cmd', I think)
+    # activate the virtual environment
     source venv/bin/activate
     ```
-
-    If you install [autoenv] on a Unix system (OS X / macOS is Unix), you don't
-    have to activate the virtualenv; it's done for you automatically when you
-    enter the directory.
 
 2. Install necessary Python packages using `pip`:
 
